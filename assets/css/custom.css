@@ -1,0 +1,191 @@
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  background-color: #f3f6fd;
+}
+
+.navbar {
+  padding-top: 44px;
+}
+
+.navbar .navbar-brand h5 {
+  padding-left: 90px;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+}
+
+.navbar .navbar-brand span {
+  color: #6e62e4;
+}
+
+.navbar .navbar-nav {
+  margin-right: 90px;
+}
+
+.navbar .navbar-nav .nav-item {
+  margin-right: 15px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: #697789;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  color: #000000;
+}
+
+.jumbotron {
+  padding-top: 94px;
+}
+
+.jumbotron h1 {
+  font-weight: 00;
+  font-size: 42px;
+  line-height: 63px;
+  color: #000000;
+}
+
+.jumbotron span {
+  color: #6e62e4;
+}
+
+.jumbotron p {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  color: #697789;
+  width: 305px;
+  text-align: center;
+  padding-top: 12px;
+  margin-bottom: 70px;
+}
+
+.jumbotron .card {
+  border-radius: 30px;
+  border: none;
+}
+
+.jumbotron .card .card-body {
+  padding: 30px;
+}
+
+.jumbotron .card .card-body .btn-purple,
+.jumbotron .card .card-body .btn-purple-enterprise {
+  width: 210px;
+  height: 50px;
+  border-radius: 100px;
+  background: #6e62e4;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  border: none;
+}
+
+.jumbotron .card .card-body .btn-purple-enterprise {
+  background: #ffbeb2;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.jumbotron .card .card-body .feature img {
+  height: 70px;
+}
+
+.jumbotron .card .card-body .feature .title-feature {
+  padding-left: 14px;
+  padding-top: 5px;
+}
+
+.jumbotron .card .card-body .feature .title-feature h6 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.jumbotron .card .card-body .feature .title-feature p {
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  width: 10px;
+}
+
+.jumbotron .card .card-body .feature .title-feature .feature-price {
+  padding-top: 5px;
+}
+
+.jumbotron .card .card-body .feature .title-feature .feature-price h1 {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 42px;
+  color: #6e62e4;
+}
+
+.jumbotron .card .card-body .feature .title-feature .feature-price span {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #697789;
+  padding-bottom: 5px;
+}
+
+.jumbotron .card .card-body .options-feature img {
+  height: 26px;
+  margin-top: 3px;
+}
+
+.jumbotron .card .card-body .options-feature p {
+  margin-bottom: 20px;
+  padding-top: 0;
+}
+
+.jumbotron .card-purple {
+  background-color: rgba(58, 51, 121, 1);
+}
+
+.jumbotron .card-purple .card-body .feature .title-feature h6 {
+  color: rgba(255, 255, 255, 1);
+}
+
+.jumbotron .card-purple .card-body .feature .title-feature p,
+.jumbotron .card-purple .card-body .feature .title-feature .feature-price span {
+  color: rgba(178, 173, 225, 1);
+}
+
+.jumbotron .card-purple .card-body .feature .title-feature .feature-price h1 {
+  color: rgba(255, 190, 178, 1);
+}
+
+.jumbotron .card-purple .card-body .options-feature p {
+  color: #b2ade1;
+  text-align: left;
+  padding-left: 12px;
+}
+
+.jumbotron .card-purple .card-body .options-feature b {
+  color: #ffffff;
+}
+
+.trusted {
+  margin-top: 100px;
+  padding-bottom: 100px;
+}
+
+.trusted h3 {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #6e62e4;
+}
+
+.trusted span {
+  color: #000000;
+}
